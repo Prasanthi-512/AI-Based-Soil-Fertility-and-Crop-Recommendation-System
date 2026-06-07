@@ -1,0 +1,17 @@
+Django==4.2
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.2.2
+matplotlib==3.7.1
+seaborn==0.12.2
+opencv-python==4.8.0.74
+tensorflow==2.12.0
+keras==2.12.0
+Pillow==9.5.0
+pdfplumber==0.10.2
+joblib==1.2.0
+requests==2.31.0
+python-dotenv==1.0.0
+reportlab==3.6.12
+django-crispy-forms==2.0
+crispy-bootstrap5==0.7
